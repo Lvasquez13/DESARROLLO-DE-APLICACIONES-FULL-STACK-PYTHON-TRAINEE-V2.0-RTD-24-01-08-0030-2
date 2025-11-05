@@ -2,3 +2,6 @@
 
 Repositorio base del curso **Full Stack Python**.  
 Aquí se organizarán los módulos y actividades del programa de formación.
+
+💡 Para acceder a las actividades y actualizaciones del curso,
+asegúrate de seguir este perfil: [@Lvasquez13](https://github.com/Lvasquez13)
