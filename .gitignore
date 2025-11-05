@@ -1,0 +1,42 @@
+# Archivos y carpetas de Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de compilación o empaquetado
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
+
+# Node.js (si usas algo de frontend con npm)
+node_modules/
+
+# Archivos de entorno (credenciales, variables)
+.env.local
+.env.development
+.env.production
