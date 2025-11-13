@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: lightblue; /* aca estaablcemos el color de fondo. del body.. */
+}
+main {
+  max-width: 600px;
+  margin: 25px auto; /* Aca se cumple con la peticion de que este centrada la imagen... */
+  text-align: center;
+  padding: 20px;
+}
+p {
+  line-height: 30px;
+}
+img {
+  /* Aca estamos dandoles las dimensiones que se nos pide en el ejercicio... */
+  max-width: 400px;
+  height: 300px;
+  border-radius: 10px;
+}
+h1 {
+  /* Aca se cumple con la peticion de que el titulo este en color rojo... */
+  color: red;
+}

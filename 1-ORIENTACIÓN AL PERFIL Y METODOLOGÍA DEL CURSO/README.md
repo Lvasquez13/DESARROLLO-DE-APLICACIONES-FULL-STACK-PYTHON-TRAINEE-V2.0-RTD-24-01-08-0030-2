@@ -2,6 +2,4 @@
 
 ## 🎯 Objetivo
 
-(Describe aquí los objetivos del módulo.)
-
 ## 📚 Actividades
