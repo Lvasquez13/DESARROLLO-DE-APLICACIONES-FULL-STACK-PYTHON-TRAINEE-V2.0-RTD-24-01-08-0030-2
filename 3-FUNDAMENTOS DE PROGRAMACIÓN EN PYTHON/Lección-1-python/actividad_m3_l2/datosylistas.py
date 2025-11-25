@@ -67,6 +67,8 @@ print("Slice 0:5:2 =", salto)
 # Declaracion de listas para cumplir con la actividad
 a = [5, 1, 4, 9, 0]                               # lista de números
 
+
+#b = range(3, 10) + range(20, 23) 
 b = list(range(3, 10)) + list(range(20, 23))      # unir dos rangos en una lista
                                                    # [3,4,5,6,7,8,9] + [20,21,22]
 
