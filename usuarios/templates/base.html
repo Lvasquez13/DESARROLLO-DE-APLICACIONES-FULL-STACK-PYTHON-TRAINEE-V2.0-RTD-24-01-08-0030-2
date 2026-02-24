@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}Mi Proyecto{% endblock %}</title>
+</head>
+
+<body>
+  <header>
+    <h1>Mi Proyecto de Autenticación</h1>
+    <nav>
+      <a href="{% url 'registro' %}">Registro</a> |
+      <a href="{% url 'login' %}">Login</a> |
+      <a href="{% url 'area_reservada' %}">Área Protegida</a>
+    </nav>
+    <hr>
+  </header>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    <hr>
+    <p>© 2026 Mi Proyecto</p>
+  </footer>
+</body>
+
+</html>
